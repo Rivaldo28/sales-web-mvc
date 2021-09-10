@@ -1,0 +1,11 @@
+C:\C# Core\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.0\SalesWebMvc.deps.json
+C:\C# Core\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.0\SalesWebMvc.runtimeconfig.json
+C:\C# Core\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.0\SalesWebMvc.runtimeconfig.dev.json
+C:\C# Core\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.0\SalesWebMvc.dll
+C:\C# Core\SalesWebMvc\SalesWebMvc\bin\Debug\netcoreapp2.0\SalesWebMvc.pdb
+C:\C# Core\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.0\SalesWebMvc.csprojAssemblyReference.cache
+C:\C# Core\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.0\SalesWebMvc.csproj.CoreCompileInputs.cache
+C:\C# Core\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.0\SalesWebMvc.AssemblyInfoInputs.cache
+C:\C# Core\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.0\SalesWebMvc.AssemblyInfo.cs
+C:\C# Core\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.0\SalesWebMvc.dll
+C:\C# Core\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.0\SalesWebMvc.pdb
